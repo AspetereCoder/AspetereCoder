@@ -1,4 +1,6 @@
-### Hi there 👋
+### Quem eu sou?
+
+Atualmente sou estudante do ensino médio, tenho 15 anos e gosto de matemática. Começei a estudar sobre programação e afins em 2021.
 
 <!--
 **AspetereCoder/AspetereCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
