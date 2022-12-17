@@ -1,18 +1,13 @@
-### Quem eu sou?
+<h1 align="center">Hello, World! I'm Aspetere 👽</h1>
+<h2 align="center">I'm a brazillian 🇧🇷 middle school programming student</h2>
 
-Atualmente sou estudante do ensino médio, tenho 15 anos e gosto de matemática. Começei a estudar sobre programação e afins em 2021.
+<p>- 🌱 I’m currently learning <b>Javascript & CSS</b></p>
+<p>- ⚡ Fun fact: <b>Vim</b> is a gift from God</p>
 
-<!--
-**AspetereCoder/AspetereCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Knowledges: </h2>
+<div>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python logo">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo">&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo">&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css logo">
+</div>
