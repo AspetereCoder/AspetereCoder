@@ -3,6 +3,7 @@
 
 <p>- 🌱 I’m currently learning <b>Javascript & CSS</b></p>
 <p>- ⚡ Fun fact: <b>Vim</b> is a gift from God</p>
+<p>. 🔥 Looking for an internship 👀</p>
 
 <h2>Knowledges: </h2>
 <div>
