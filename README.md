@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! I'm Aspetere 👽</h1>
-<h2 align="center">I'm a brazillian 🇧🇷 middle school programming student</h2>
+<h2 align="center">I'm a brazillian 🇧🇷 software engineering student</h2>
 
 <p>- 🌱 I’m currently learning <b>Java & Angular Framework</b></p>
 <p>- ⚡ Fun fact: <b>Vim</b> is a gift from God</p>
